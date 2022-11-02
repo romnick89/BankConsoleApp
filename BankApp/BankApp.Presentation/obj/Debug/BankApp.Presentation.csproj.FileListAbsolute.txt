@@ -1,0 +1,8 @@
+D:\CSharpProjects\BankApp\BankApp.Presentation\bin\Debug\BankApp.Presentation.exe.config
+D:\CSharpProjects\BankApp\BankApp.Presentation\bin\Debug\BankApp.Presentation.exe
+D:\CSharpProjects\BankApp\BankApp.Presentation\bin\Debug\BankApp.Presentation.pdb
+D:\CSharpProjects\BankApp\BankApp.Presentation\obj\Debug\BankApp.Presentation.csproj.AssemblyReference.cache
+D:\CSharpProjects\BankApp\BankApp.Presentation\obj\Debug\BankApp.Presentation.csproj.SuggestedBindingRedirects.cache
+D:\CSharpProjects\BankApp\BankApp.Presentation\obj\Debug\BankApp.Presentation.csproj.CoreCompileInputs.cache
+D:\CSharpProjects\BankApp\BankApp.Presentation\obj\Debug\BankApp.Presentation.exe
+D:\CSharpProjects\BankApp\BankApp.Presentation\obj\Debug\BankApp.Presentation.pdb
